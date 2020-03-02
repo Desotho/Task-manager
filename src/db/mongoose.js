@@ -7,8 +7,3 @@ mongoose.connect(connectionURL,{
     useUnifiedTopology: true,
     useFindAndModify:false
 });
-
-
-console.log('')
-
-
